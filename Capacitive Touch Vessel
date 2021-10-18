@@ -20,3 +20,6 @@ Serial.println(total);
     digitalWrite(13, LOW);
     }
 }
+
+
+// for a fun and useful tutorial for a fully DIY project visit https://mrelectrouino.blogspot.com/2019/07/diy-how-to-make-conductive-paint.html 
